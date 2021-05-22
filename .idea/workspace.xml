@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc100e21-a6d9-45d4-af60-ca7e3374f0db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/forms/event_search_form.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/get_form_turbolinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/application/error404.html.haml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/application/error500.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/events_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/events_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/welcome_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/packs/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/event.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/event.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/events/edit.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/events/edit.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/events/new.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/events/new.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/events/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/events/show.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/welcome/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/locales/ja.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/locales/ja.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-    </list>
+    <list default="true" id="bc100e21-a6d9-45d4-af60-ca7e3374f0db" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -360,7 +339,7 @@
       <workItem from="1621518637417" duration="599000" />
       <workItem from="1621553115403" duration="598000" />
       <workItem from="1621604330117" duration="599000" />
-      <workItem from="1621645455342" duration="1265000" />
+      <workItem from="1621645455342" duration="1765000" />
     </task>
     <servers />
   </component>
